@@ -40,4 +40,4 @@ async def check(ctx):
         await ctx.send("You forgot to upload the image :(")
 
 
-bot.run('TOKEN') # TOKEN = discord botunun tokeni
+bot.run('TOKEN') # Discord deleporter portal : https://discord.com/developers/applications
