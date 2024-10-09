@@ -40,4 +40,4 @@ async def check(ctx):
         await ctx.send("You forgot to upload the image :(")
 
 
-bot.run('MTI5MzI4ODgxMDMwNTY4NzczMg.GNhvfo.W0HWZli2eGZP_ec-wByuuoCzla_bAi5p4YIU7s')
+bot.run('TOKEN') # TOKEN = discord botunun tokeni
